@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Virtualenv
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data 
+data/raw/
+data/raw_balanced_*/
+data/processed*/
+data/*/mels/
+*.npy
+*.npz
+*.pt
+*.joblib
+
+# Allow committing small final results only
+!results/
+!results/**/*

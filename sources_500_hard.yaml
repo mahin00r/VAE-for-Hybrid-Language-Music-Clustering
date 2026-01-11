@@ -1,0 +1,7 @@
+sources:
+- name: bangla
+  root: data/raw_balanced_500_hard/bangla
+  language: bn
+- name: english
+  root: data/raw_balanced_500_hard/english
+  language: en

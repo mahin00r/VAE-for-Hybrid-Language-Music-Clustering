@@ -1,0 +1,15 @@
+numpy
+pandas
+librosa
+soundfile
+tqdm
+scikit-learn
+pyyaml
+mutagen
+matplotlib
+scipy
+joblib
+umap-learn
+torch
+torchvision
+torchaudio

@@ -1,0 +1,4 @@
+sources:
+  - name: jamendo
+    root: jamendolyrics/mp3
+    language: en

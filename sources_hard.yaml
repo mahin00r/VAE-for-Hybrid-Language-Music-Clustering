@@ -1,0 +1,8 @@
+sources:
+  - name: bangla
+    root: data/raw/bangla
+    language: bn
+
+  - name: english
+    root: data/raw/english_fma
+    language: en
